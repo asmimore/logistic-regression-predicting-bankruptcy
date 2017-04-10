@@ -8,11 +8,13 @@ This project uses Logistic Regression method to predic bankruptcy.
 2) Profit
    
    a. ROCE: Profit before tax to capital employed(%)
+   
    b. FFTL: Funds flow(earnings before interest, tax & depreciation) to total liabilities
 
 3) Gearing
 
     a. GEAR:(Current liabilities + long-term debt) to total assets
+    
     b.CLTA: Current liabilities to total assets
     
 4) Liquidity
