@@ -1,4 +1,4 @@
-
+# By Lida Xu
 rm(list = ls()) # reset the workspace
 
 normalize<-function(X){
